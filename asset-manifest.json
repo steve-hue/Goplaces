@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Goplaces/static/css/main.ab8f62d8.chunk.css",
+    "main.js": "/Goplaces/static/js/main.62bb32c8.chunk.js",
+    "main.js.map": "/Goplaces/static/js/main.62bb32c8.chunk.js.map",
+    "runtime-main.js": "/Goplaces/static/js/runtime-main.de18aee5.js",
+    "runtime-main.js.map": "/Goplaces/static/js/runtime-main.de18aee5.js.map",
+    "static/js/2.eb6316c2.chunk.js": "/Goplaces/static/js/2.eb6316c2.chunk.js",
+    "static/js/2.eb6316c2.chunk.js.map": "/Goplaces/static/js/2.eb6316c2.chunk.js.map",
+    "index.html": "/Goplaces/index.html",
+    "static/css/main.ab8f62d8.chunk.css.map": "/Goplaces/static/css/main.ab8f62d8.chunk.css.map",
+    "static/js/2.eb6316c2.chunk.js.LICENSE.txt": "/Goplaces/static/js/2.eb6316c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de18aee5.js",
+    "static/js/2.eb6316c2.chunk.js",
+    "static/css/main.ab8f62d8.chunk.css",
+    "static/js/main.62bb32c8.chunk.js"
+  ]
+}
